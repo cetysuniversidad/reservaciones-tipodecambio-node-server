@@ -6,8 +6,8 @@ Comando para correr la app
 > node app.js
 
 ## Servicios
-*Obtiene el tipo de cambio del servicio web de Banxico por medio de SOAP*
-/v1/getTipoDeCambio
+### /v1/getTipoDeCambio
+Obtiene el tipo de cambio del servicio web de Banxico por medio de SOAP
 
 ## Dependencias
 ### express
