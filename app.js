@@ -6,7 +6,7 @@ var xml2js = require('xml2js');
 
 var xmlParser = new xml2js.Parser({explicitArray: false, trim: true});
 const apiUrl = "http://www.banxico.org.mx/DgieWSWeb/DgieWS?WSDL";
-const puerto = 9229;
+const puerto = 18080;
 
 app.use(cors());
 
